@@ -41,9 +41,11 @@
   background-color: white; 
   color: black;
 }
-
+.row ul{
+	list-style-type: none;
+}
 .row p{
-	
+	padding: 10px;
 	border-style: dashed;
 	text-align: center;
 }
